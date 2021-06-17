@@ -1,4 +1,4 @@
-# solid principles with typescript
+# automated-tests
 
-implementation of solid principles with typescript
+introduction to automated testing with jest
 

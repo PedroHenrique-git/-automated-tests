@@ -4,7 +4,8 @@
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:silent": "npx jest --watchAll --silent --noStackTrace"
   },
   "repository": {
     "type": "git",

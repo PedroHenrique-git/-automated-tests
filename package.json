@@ -5,7 +5,8 @@
   "main": ".eslintrc.js",
   "scripts": {
     "test": "jest",
-    "test:silent": "npx jest --watchAll --silent --noStackTrace"
+    "test:silent": "npx jest --watchAll --silent --noStackTrace",
+    "test:coverage": "npx jest --coverage --watchAll --silent --noStackTrace"
   },
   "repository": {
     "type": "git",
